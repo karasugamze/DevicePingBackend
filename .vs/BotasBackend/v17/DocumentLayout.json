@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Predator\\Desktop\\staj\\stajdeneme1\\BotasBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B25BA6-C37F-4BD3-B7B1-699A35CD4225}|Business\\Business\\Business.csproj|c:\\users\\predator\\desktop\\staj\\stajdeneme1\\botasbackend\\business\\business\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B25BA6-C37F-4BD3-B7B1-699A35CD4225}|Business\\Business\\Business.csproj|solutionrelative:business\\business\\repositories\\devicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D854CBC3-E9AD-4FA4-A850-DB103BA3C958}|DataAccess\\Domain\\Domain.csproj|c:\\users\\predator\\desktop\\staj\\stajdeneme1\\botasbackend\\dataaccess\\domain\\dtos\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D854CBC3-E9AD-4FA4-A850-DB103BA3C958}|DataAccess\\Domain\\Domain.csproj|solutionrelative:dataaccess\\domain\\dtos\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D854CBC3-E9AD-4FA4-A850-DB103BA3C958}|DataAccess\\Domain\\Domain.csproj|c:\\users\\predator\\desktop\\staj\\stajdeneme1\\botasbackend\\dataaccess\\domain\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D854CBC3-E9AD-4FA4-A850-DB103BA3C958}|DataAccess\\Domain\\Domain.csproj|solutionrelative:dataaccess\\domain\\entities\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B25BA6-C37F-4BD3-B7B1-699A35CD4225}|Business\\Business\\Business.csproj|c:\\users\\predator\\desktop\\staj\\stajdeneme1\\botasbackend\\business\\business\\abstract\\idevicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B25BA6-C37F-4BD3-B7B1-699A35CD4225}|Business\\Business\\Business.csproj|solutionrelative:business\\business\\abstract\\idevicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Desktop\\staj\\stajdeneme1\\BotasBackend\\Business\\Business\\Repositories\\DeviceRepository.cs",
+              "RelativeDocumentMoniker": "Business\\Business\\Repositories\\DeviceRepository.cs",
+              "ToolTip": "C:\\Users\\Predator\\Desktop\\staj\\stajdeneme1\\BotasBackend\\Business\\Business\\Repositories\\DeviceRepository.cs",
+              "RelativeToolTip": "Business\\Business\\Repositories\\DeviceRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:16:39.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "deviceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Desktop\\staj\\stajdeneme1\\BotasBackend\\DataAccess\\Domain\\DTOs\\deviceDTO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Domain\\DTOs\\deviceDTO.cs",
+              "ToolTip": "C:\\Users\\Predator\\Desktop\\staj\\stajdeneme1\\BotasBackend\\DataAccess\\Domain\\DTOs\\deviceDTO.cs",
+              "RelativeToolTip": "DataAccess\\Domain\\DTOs\\deviceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:01:17.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Desktop\\staj\\stajdeneme1\\BotasBackend\\DataAccess\\Domain\\Entities\\Device.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Domain\\Entities\\Device.cs",
+              "ToolTip": "C:\\Users\\Predator\\Desktop\\staj\\stajdeneme1\\BotasBackend\\DataAccess\\Domain\\Entities\\Device.cs",
+              "RelativeToolTip": "DataAccess\\Domain\\Entities\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:01:16.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDeviceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Predator\\Desktop\\staj\\stajdeneme1\\BotasBackend\\Business\\Business\\Abstract\\IDeviceRepository.cs",
+              "RelativeDocumentMoniker": "Business\\Business\\Abstract\\IDeviceRepository.cs",
+              "ToolTip": "C:\\Users\\Predator\\Desktop\\staj\\stajdeneme1\\BotasBackend\\Business\\Business\\Abstract\\IDeviceRepository.cs",
+              "RelativeToolTip": "Business\\Business\\Abstract\\IDeviceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:00:53.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
